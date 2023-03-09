@@ -1,1 +1,1 @@
-document.write(' New Hola a comunidad Git')
+document.write(' New Hello GitHub');
